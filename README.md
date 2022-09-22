@@ -1,4 +1,94 @@
-# Docks🐣Hub
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+Technology used: Node.js, Express, MongoDB, TypeScript, React.
+
+<h1 align="center"> Ducks🐣Hub </h1>
+
+## English
+
+This is a knowledge sharing platform application created by David Choulex, Kouta Akimoto and 2 others.
+
+### Features
+
+**1. Article**
+
+- Create an article with markdown.
+- Post article.
+- Search article.
+- Show recommended article.
+- Show article detail.
+- Show popular article based on number of likes.
+- Show posted article.
+- Show liked article.
+
+**2. Comment**
+
+- Comment an article.
+- Show article's commments.
+
+**3. Follow**
+
+- Follow an user.
+- Show followers.
+
+**4. Like**
+
+- Like an article.
+- Show article's number of likes.
+
+**5. Tag**
+
+- Create tag to article.
+- Create organization tags.
+
+**6. Bookmark**
+
+- Bookmark an article.
+- Show bookmarked article on user's profile page.
+
+**7. Account**
+
+- Login
+- Users are created based on IBM internal account.
+- Show my profile information.
+
+**8. Organizations**
+
+- Show organizations.
+- Delete organizations.
+
+**9. Others**
+
+- Responsive design.
+- Dark mode.
+- Pagination.
+
+### Entity
+
+![Entity](./readme_assets/entity.png)
+
+### User Interfaces
+
+1. Home Page - Ranking tab and Recommendation tab
+   ![Home Page](./readme_assets/home-page.png)
+
+2. Search Page
+   ![Search Page](./readme_assets/search-page.png)
+
+3. Article Detail Page - Like and Bookmark
+   ![Article Detail Page](./readme_assets/article-detail-page.png)
+
+4. My Profile Page - Posted article tab, Liked article tab, Bookmark tab, Follow tab
+   ![My Profile Page](./readme_assets/my-profile-page.png)
+
+5. Other Features - Responsive design and dark mode
+   ![Other Features](./readme_assets/other-features.png)
+
+## 日本語
 
 フロントエンド：React + TypeScript による静的ウェブサイト
 
@@ -31,9 +121,9 @@
 
 ## 画面遷移図
 
-![画面遷移図](./画面遷移図.png)
+![画面遷移図](./readme_assets/画面遷移図.png)
 
-## 操作方法
+## 操作方法 - フロントエンド
 
 （プロジェクトルートに移動後）
 
